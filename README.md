@@ -1,0 +1,2 @@
+# javatips
+Java Tip
